@@ -5,4 +5,4 @@ These projects were made during training at Yandex.Practical training, on "Data 
 
 | project name | description | libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+| [music_big_cities](music_big_cities) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on the time (morning and evening) and day of the week (Monday, Wednesday, Friday)| *pandas* |

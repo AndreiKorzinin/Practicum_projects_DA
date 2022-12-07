@@ -1,20 +1,20 @@
 ## Investigation of the reliability of borrowers
 
-## Поставленная задача:
-Необходимо определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
-Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+It is necessary to determine whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Input data from the bank — statistics on the solvency of customers.
 
-## Описание данных датасета:
+Before starting the analysis, it is necessary to check the quality of the data.
 
-1. children — количество детей в семье
-2. days_employed — общий трудовой стаж в днях
-3. dob_years — возраст клиента в годах
-4. education — уровень образования клиента
-5. education_id — идентификатор уровня образования
-6. family_status — семейное положение
-7. family_status_id — идентификатор семейного положения
-8. gender — пол клиента
-9. income_type — тип занятости
-10. debt — имел ли задолженность по возврату кредитов
-11. total_income — ежемесячный доход
-12. purpose — цель получения кредита
+## Data:
+
+- `children` — number of children's family;
+- `days_employed` — total work experience in days;
+- `dob_years` — client's age in years;
+- `education` — the client's level of education;
+- `education_id` — education level identifier;
+- `family_status` — marital status;
+- `family_status_id` — id of marital status;
+- `gender` — client's gender;
+- `income_type` — type of employment;
+- `debt` — did the user have a loan repayment debt;
+- `total_income` — monthly income;
+- `purpose` — purpose of obtaining a loan.

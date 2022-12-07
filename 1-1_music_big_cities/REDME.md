@@ -5,3 +5,12 @@ Three hypotheses are to be tested in the project:
 * Moscow and St. Petersburg prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg - Russian rap.
 
 Before starting the analysis, it is necessary to check the quality of the data.
+
+### Data:
+- `userID` — user id;
+- `Track` — track name;
+- `artist` — name of an artist;
+- `genre` — genre bame;
+- `City` — city name;
+- `time` — listening start time;
+- `Day` — day of a week.

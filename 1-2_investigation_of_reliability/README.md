@@ -1,8 +1,8 @@
 ## Investigation of the reliability of borrowers
 
-It is necessary to determine whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Input data from the bank — statistics on the solvency of customers.
-
-Before starting the analysis, it is necessary to check the quality of the data.
+Based on the data of the bank's credit department, investigated the influence of marital status and
+the number of children on the fact of repayment of the loan on time. Information about
+the data was received. Gaps have been identified and processed. Data types have been replaced with those corresponding to the stored data. Duplicates have been removed. The data is categorized. One dataframe is decomposed into three.
 
 ## Data:
 

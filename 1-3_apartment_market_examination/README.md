@@ -1,6 +1,6 @@
 ## apartment market examination
 
-Based on Yandex service data.The market value of various types of real estate objects, typical parameters of apartments, depending on 
+Based on Yandex service data of various types of real estate objects, typical parameters of apartments, depending on 
 the distance from the center, is determined. Data preprocessing was carried out. New data has been added.
 Histograms, boxplots, and scatter diagrams are constructed.
 

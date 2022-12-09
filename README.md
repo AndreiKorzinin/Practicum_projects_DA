@@ -8,4 +8,5 @@ These projects were made during training at Yandex.Practical training, on "Data 
 | [music_big_cities](1-1_music_big_cities) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on the time (morning and evening) and day of the week (Monday, Wednesday, Friday)| *pandas* |
 | [investigation_of_reliability](1-2_investigation_of_reliability) | On the basis of statistics on the solvency of clients to investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time.| *pandas* |
 | [apartment_market_examination](1-3_apartment_market_examination) | Using Yandex service data Real estate, determine the market value of real estate and typical parameters of apartments.| *pandas*, *matplotlib* |
+| [telecom_company_tariff_determination](1-4_telecom_company_tariff_determination) | Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff.| *pandas*, *matplotlib*, *numpy*, *scipy* |
 

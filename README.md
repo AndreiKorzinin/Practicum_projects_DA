@@ -14,4 +14,4 @@ These projects were made during training at Yandex.Practical training, on "Data 
 | [business_decision_making](2-2_business_decision_making) | Using the data of the online store to prioritize hypotheses, to evaluate the results of A/B testing by various methods.| *pandas*, *matplotlib*, *scipy* |
 | [telling_a_story_about_data](2-3_telling_a_story_about_data) | Public catering market research based on open data, preparation of a presentation for investors.| *pandas*, *seaborn*, *plotly* |
 | [user_behavior](2-4_user_behavior) | Based on the data from the use of a mobile application for the sale of food, analyze the sales funnel, as well as evaluate the results of A/A/B testing.| *pandas*, *seaborn*, *plotly*, *matplotlib* |
-
+| [machine_learning_foundations](3-2_machine_learning_foundations) | Based on data on visitors to a network of fitness centers, predict the probability of outflow for each client next month, form user portraits using clustering.| *pandas*, *seaborn*, *scikit-learn*, *matplotlib* |

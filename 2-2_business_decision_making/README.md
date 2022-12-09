@@ -2,7 +2,7 @@
 
 Data analysis was carried out. Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. Previously written metric calculation functions were used. Correct conclusions have been drawn based on the data obtained.
 
-### Data:
+## Data:
 ### hypothesis:
 - `Hypothesis` — a brief description of the hypothesis;
 - `Reach` — user coverage on a 10-point scale;

@@ -9,4 +9,5 @@ These projects were made during training at Yandex.Practical training, on "Data 
 | [investigation_of_reliability](1-2_investigation_of_reliability) | On the basis of statistics on the solvency of clients to investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time.| *pandas* |
 | [apartment_market_examination](1-3_apartment_market_examination) | Using Yandex service data Real estate, determine the market value of real estate and typical parameters of apartments.| *pandas*, *matplotlib* |
 | [telecom_company_tariff_determination](1-4_telecom_company_tariff_determination) | Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff.| *pandas*, *matplotlib*, *numpy*, *scipy* |
+| [online_store_advertising_company_determination](1-5_online_store_advertising_company_determination) | Using historical data on sales of computer games, user and expert ratings, genres and platforms, to identify patterns that determine the success of the game.| *pandas*, *matplotlib*, *numpy* |
 

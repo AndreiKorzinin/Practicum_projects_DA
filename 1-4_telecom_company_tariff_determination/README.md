@@ -1,7 +1,7 @@
 ## telecom_company_tariff_determination
 A preliminary analysis of the use of tariffs on a sample of customers was carried out, the behavior of customers when using the operator's services was analyzed and optimal sets of services for users were recommended. The data was preprocessed and analyzed. Hypotheses about the difference in revenue of subscribers of different tariffs and the difference in revenue of subscribers from Moscow and other regions have been tested.
 
-## Data description:
+## Data:
 ### users (user information):
 - `user_id` — unique user id;
 - `first_name` — user name;
@@ -35,3 +35,16 @@ A preliminary analysis of the use of tariffs on a sample of customers was carrie
 - `rub_per_minute` — the cost of a minute of conversation over the tariff package (for example, if the tariff has 100 minutes of conversation per month, then a fee will be charged from 101 minutes);
 - `rub_per_message` — the cost of sending a message over the tariff package;
 - `rub_per_gb` — the cost of an additional gigabyte of Internet traffic over the tariff package (1 gigabyte = 1024 megabytes).
+
+## Results
+In the course of this work, the following steps were taken:
+- the quantitative characteristics of users were determined according to their spending on both tariffs;
+- calculated monthly revenue from each user;
+- two two-sided hypotheses were put forward and calculations were given to confirm or refute these hypotheses.
+
+A quantitative analysis of user spending showed that users of the Smart tariff spend more minutes, SMS and GB. Which in turn leads to the fact that the smart tariff is more profitable for the company. This is also confirmed by the analysis of monthly revenue. The hypothesis put forward, in turn, also confirms that the smart tariff is more profitable in terms of monthly revenue. The hypothesis that monthly revenue in Moscow is not equal to revenue in other regions was also confirmed by calculations and statistical method. Both hypotheses put forward were two-sided, which means that we only consider whether the assumption is true or not, and in which direction if not, it does not matter to us in the context of this task. The significance level was chosen to be 5%. The significance level numerically determines where the boundary of the probability of getting too far from the center of the distribution passes.
+
+Based on the data obtained in the work done, it can be concluded that the Smart tariff is the best.
+
+## Stage
+Project is fully completed

@@ -10,3 +10,9 @@ the seaborn and plotli libraries.
 - `object_type` — type of catering facility;
 - `address` — address;
 - `number` — the number of seats.
+
+## Results
+As for the type of catering, I see a cafe or a bar as the best option. With regard to the location, we have identified 22 districts of the city of Moscow where this institution can be located. With regard to the number of seats, as it was determined above, on average cafes and bars have a capacity for 40 people, I think this figure is optimal.
+
+## Stage
+Project is fully completed

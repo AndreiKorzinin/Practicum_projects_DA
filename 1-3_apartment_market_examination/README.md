@@ -41,3 +41,7 @@ We have 7 peaks in the range from 0 to 100 of the range of the period of sale of
 - The seventh peak is 90 days. Comparable in terms of sales with the second and third peaks.
 
 All the voiced characteristics and dependencies are presented in the form of graphs in this project work.
+
+## Stage
+
+Project is fully completed

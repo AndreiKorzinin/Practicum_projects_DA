@@ -21,7 +21,7 @@ Information based on the log of visits, purchases and information about the curr
 - `Avg_additional_charges_total` — total revenue from other fitness center services: cafes, sporting goods, beauty and massage parlors.
 - `Churn` — the fact of outflow in the current month.
 
-##Results
+## Results
 In the course of this work, the following steps were performed:
 1. a research analysis of the data was carried out;
 2. columnar histograms of the distribution of signs were constructed for those who left (outflow) and those who remained, a correlation matrix was built;
@@ -39,5 +39,5 @@ Recommendations for the strategy of interaction with customers and their retenti
 * most of the clients have a contract for 1 month; (it is logical that customers with the shortest contract term tend to outflow.)
 * most of the clients do not attend group classes. (maybe it's worth working on expanding the range of services provided for group classes)
 
-##Stage
+## Stage
 Project is fully completed
